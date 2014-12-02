@@ -18,26 +18,31 @@
 			"buffers":
 			[
 				{
-					"contents": "",
+					"file": "/home/jing/software/cworkspace/helloword/helloword.c",
 					"settings":
 					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
+						"buffer_size": 104,
+						"line_ending": "Unix",
+						"name": "#include <stdio.h>"
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 52.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 392.0
+				"width": 449.0
 			},
 			"console":
 			{
-				"height": 0.0
+				"height": 125.0
 			},
 			"distraction_free":
 			{
@@ -50,6 +55,7 @@
 			},
 			"file_history":
 			[
+				"/home/jing/software/cworkspace/helloword/helloword.cc"
 			],
 			"find":
 			{
@@ -89,23 +95,24 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/home/jing/software/cworkspace/helloword/helloword.c",
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 104,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										104,
+										104
 									]
 								],
 								"settings":
 								{
-									"auto_name": "",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"auto_name": "#include <stdio.h>",
+									"syntax": "Packages/C++/C.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -147,7 +154,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,722,0,1362,480,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"replace":
 			{
 				"height": 0.0
